@@ -1,0 +1,14 @@
+body {
+  background-color: #d6d6d6;
+  background-image: url(https://2020.igem.org/wiki/images/5/56/T--BITSPilani-Goa_India--img--background.png);
+  /* Image from https://www.transparenttextures.com/ */
+}
+
+header {
+  padding: 2.5rem;
+  background: white;
+}
+
+a.btn:visited {
+  color: white;
+}

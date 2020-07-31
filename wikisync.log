@@ -1,0 +1,21 @@
+2020-07-31 20:28:36,910 : INFO : iGEM_login : Already logged in.
+2020-07-31 20:28:36,926 : INFO : iGEM_URL : css/igem-reset.css was changed to https://2020.igem.org/Template:BITSPilani-Goa_India/css/igem-resetCSS?action=raw&ctype=text/css in index.html.
+2020-07-31 20:28:36,926 : INFO : iGEM_URL : css/bootstrap.css was changed to https://2020.igem.org/Template:BITSPilani-Goa_India/css/bootstrapCSS?action=raw&ctype=text/css in index.html.
+2020-07-31 20:28:36,927 : INFO : iGEM_URL : css/style.css was changed to https://2020.igem.org/Template:BITSPilani-Goa_India/css/styleCSS?action=raw&ctype=text/css in index.html.
+2020-07-31 20:28:36,927 : INFO : iGEM_URL : ./js/main.js was changed to https://2020.igem.org/Template:BITSPilani-Goa_India/js/mainJS?action=raw&ctype=text/javascript in index.html.
+2020-07-31 20:28:36,928 : INFO : iGEM_URL : ./Description was changed to https://2020.igem.org/Team:BITSPilani-Goa_India/Description in index.html.
+2020-07-31 20:28:36,929 : INFO : iGEM_URL : ./Description was changed to https://2020.igem.org/Team:BITSPilani-Goa_India/Description in index.html.
+2020-07-31 20:28:36,933 : INFO : iGEM_URL : assets/img/logo.png was changed to https://2020.igem.org/wiki/images/d/df/T--BITSPilani-Goa_India--img--logo.png in index.html.
+2020-07-31 20:28:38,527 : INFO : iGEM_upload_page : Uploaded to https://2020.igem.org/wiki/index.php?title=Team:BITSPilani-Goa_India&action=edit.
+2020-07-31 20:28:38,533 : INFO : iGEM_URL : ../css/igem-reset.css was changed to https://2020.igem.org/Template:BITSPilani-Goa_India/css/igem-resetCSS?action=raw&ctype=text/css in Description/index.html.
+2020-07-31 20:28:38,533 : INFO : iGEM_URL : ../css/bootstrap.css was changed to https://2020.igem.org/Template:BITSPilani-Goa_India/css/bootstrapCSS?action=raw&ctype=text/css in Description/index.html.
+2020-07-31 20:28:38,533 : INFO : iGEM_URL : ../css/style.css was changed to https://2020.igem.org/Template:BITSPilani-Goa_India/css/styleCSS?action=raw&ctype=text/css in Description/index.html.
+2020-07-31 20:28:38,534 : INFO : iGEM_URL : ../js/main.js was changed to https://2020.igem.org/Template:BITSPilani-Goa_India/js/mainJS?action=raw&ctype=text/javascript in Description/index.html.
+2020-07-31 20:28:38,535 : INFO : iGEM_URL : ../ was changed to https://2020.igem.org/Team:BITSPilani-Goa_India in Description/index.html.
+2020-07-31 20:28:38,535 : INFO : iGEM_URL : ../ was changed to https://2020.igem.org/Team:BITSPilani-Goa_India in Description/index.html.
+2020-07-31 20:28:38,542 : INFO : build_and_upload : Contents of Description/index.html have been uploaded previously. Skipping.
+2020-07-31 20:28:38,543 : INFO : build_and_upload : Contents of css/igem-reset.css have been uploaded previously. Skipping.
+2020-07-31 20:28:38,543 : INFO : iGEM_URL : ../assets/img/background.png was changed to https://2020.igem.org/wiki/images/5/56/T--BITSPilani-Goa_India--img--background.png in css/style.css.
+2020-07-31 20:28:38,544 : INFO : build_and_upload : Contents of css/style.css have been uploaded previously. Skipping.
+2020-07-31 20:28:38,545 : INFO : build_and_upload : Contents of css/bootstrap.css have been uploaded previously. Skipping.
+2020-07-31 20:28:38,545 : INFO : build_and_upload : Contents of js/main.js have been uploaded previously. Skipping.
